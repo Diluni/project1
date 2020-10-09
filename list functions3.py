@@ -4,6 +4,7 @@ list1.append(18)
 list1.append(23)
 list1.append(45)
 list1.insert(2,"peter")
+list1.insert(3,"Mary")
 
 list1.pop()
 
